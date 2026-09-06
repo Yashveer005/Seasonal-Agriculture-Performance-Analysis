@@ -424,8 +424,11 @@ available dataset.
 ``` text
 Seasonal-Agriculture-Performance-Analysis/
 │
+├──Major Project_Seasonal Agriculture Performance Analysis.pdf
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb
 ├── README.md
+├── VOIS_Major_Project_PPT_Submission_Template.pptx
+├── VOIS_Major_Project_PPT_Yashveer_Singh.pdf
 └── seasonal_agriculture_performance_dataset.csv
 ```
 
